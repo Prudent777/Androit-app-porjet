@@ -1,6 +1,6 @@
 # Androit-app-porjet
 package com.termux.view;
-ffggg
+ffgg
 import android.graphics.Canvas;
 import android.graphics.Paint;
 import android.graphics.PorterDuff;
